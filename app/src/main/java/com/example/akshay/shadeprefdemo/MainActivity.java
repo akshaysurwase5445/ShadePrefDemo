@@ -42,5 +42,7 @@ public class  MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        int i=2;
+        String test= "Test";
     }
 }
