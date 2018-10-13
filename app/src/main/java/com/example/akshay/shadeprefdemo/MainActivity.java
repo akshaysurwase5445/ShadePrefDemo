@@ -44,5 +44,8 @@ public class  MainActivity extends AppCompatActivity {
         });
         int i=2;
         String test= "Test";
+        int k=33;
+        int x=89;
+
     }
 }
